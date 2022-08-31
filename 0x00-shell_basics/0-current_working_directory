@@ -1,2 +1,2 @@
 #!/bin/bash
-alx
+echo " Current directory is 'pwd'"
